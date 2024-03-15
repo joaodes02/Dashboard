@@ -1,2 +1,2 @@
 # Dashboard
-<img src="Dashboard-Image.png>
+<img src="./Dashboard-Image.png">
